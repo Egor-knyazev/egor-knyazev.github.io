@@ -1,0 +1,22 @@
+element.style {
+}
+:root {
+    --dark-brown: #774727;
+    --light-brown: #b7635c;
+    --wet-asphalt: #828282;
+    --gray: #eeeeee;
+}
+html {
+    width: 100%;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+html[Стиль атрибутов] {
+    -webkit-locale: "ru";
+}
+таблица стилей агента пользователя
+html {
+    display: block;
+}
